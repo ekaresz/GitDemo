@@ -14,6 +14,11 @@ public class _152_GlobalValuesDrive {
 		prop.load(fis);
 		System.out.println(prop.getProperty("browser"));
 		System.out.println(prop.getProperty("url"));
+		System.out.println(prop.getProperty("url"));
+		System.out.println(prop.getProperty("url"));
+		System.out.println(prop.getProperty("url"));
+		System.out.println(prop.getProperty("url"));
+		System.out.println(prop.getProperty("url"));
 		
 		prop.setProperty("browser", "firefox");
 		System.out.println(prop.getProperty("browser"));

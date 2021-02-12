@@ -14,6 +14,11 @@ public class arrayListexample {
 		a.add("Rahul");
 		a.add("java"); // arraylist has a dynamic size
 		a.add("java");
+		a.add("java12");
+		a.add("java2");
+		a.add("java3");
+		a.add("java4");
+		a.add("java5");
 		System.out.println(a);
 		
 		a.add(0, "student"); // add element to the 0th index

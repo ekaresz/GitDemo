@@ -17,6 +17,11 @@ public class HashMapExample {
 		hm.put(3, "evening");
 		hm.put(5, null);
 		hm.put(6, null);
+		hm.put(7, null);
+		hm.put(8, null);
+		hm.put(9, null);
+		hm.put(190, null);
+		hm.put(611, null);
 		
 		System.out.println(hm.get(42));
 		hm.remove(42);
