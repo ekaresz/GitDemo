@@ -17,6 +17,12 @@ public class HashSetExample {
 		hs.add("he");
 		hs.add("she");
 		
+		hs.add("more");
+		hs.add("more2");
+		hs.add("more3");
+		hs.add("more4");
+		hs.add("more5");
+		
 		
 		hs.add("INDIA");
 		System.out.println(hs);
